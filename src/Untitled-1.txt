@@ -1,0 +1,233 @@
+<div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+          <img src="../img/Android1.png"
+           onMouseOver={e => (e.currentTarget.src = "../img/Android2.png")}
+           onMouseOut={e => (e.currentTarget.src = "../img/Android1.png")}
+            />
+            <div className="card-body">
+              <h5 className="card-title">Caja Android</h5>
+              <spam className="card-text normal">$35.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+              
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+          <img src="../img/Apple1.png"
+           onMouseOver={e => (e.currentTarget.src = "../img/Apple2.png")}
+           onMouseOut={e => (e.currentTarget.src = "../img/Apple1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja iPhone.</h5>
+              <spam className="card-text normal">$150.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+            <img src="../img/Cheap1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Cheap2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Cheap1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja Barata.</h5>
+              <spam className="card-text pdiscount">$5.000</spam>
+              <spam className="card-text discount">$3.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+          <img src="../img/Esports1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Esports2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Esports1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja Esports.</h5>
+              
+              <spam className="card-text normal">$30.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+          <img src="../img/Football1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Football2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Football1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja de Futball.</h5>
+              <spam className="card-text normal">$15.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+          <img src="../img/Gamer1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Gamer2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Gamer1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja Gaming.</h5>
+              <spam className="card-text normal">$100.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">     
+          <img src="../img/Toy-Case1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Toy-Case2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Toy-Case1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja variados.</h5>
+              <spam className="card-text pdiscount">$20.000</spam>
+              <spam className="card-text discount">$15.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">       
+          <img src="../img/Ultravio1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Ultravio2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Ultravio1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja de Audio.</h5>
+              <spam className="card-text pdiscount">$20.000</spam>
+              <spam className="card-text discount">$10.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="card mb-4 shadow-sm">
+          <img src="../img/Wow1.png"
+            onMouseOver={e => (e.currentTarget.src = "../img/Wow2.png")}
+            onMouseOut={e => (e.currentTarget.src = "../img/Wow1.png")}
+            />
+            <div className="card-body">
+            <h5 className="card-title">Caja Sorprendente.</h5>
+              <spam className="card-text normal">$15.000</spam>
+              <div className="d-flex justify-content-between align-items-center">
+                <div className="btn-group">
+                <img src="../img/boton-verde1.png"
+                onMouseOver={e => (e.currentTarget.src = "../img/boton-verde2.png")}
+                onMouseOut={e => (e.currentTarget.src = "../img/boton-verde1.png")}
+                />
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+         this.app = firebase.initializeApp(DB_CONFIG);
+    this.db = this.app.database().ref().child('boxes');
+
+
+  }
+
+  componentDidMount(){
+    const { boxes } = this.state.boxes;
+    this.db.on('child_changed', snapshot => {
+      boxes.push({
+        boxId: snapshot.key,
+        name: snapshot.val().name,
+        price: snapshot.val().price,
+        discount: snapshot.val().discount,
+        image1: snapshot.val().image1,
+        image2: snapshot.val().image2
+      })
+      this.setState({boxes});
+    });
+    
+  }
+
+  
+
+
+  { 
+                    this.state.products.map(property => {
+                      return (
+                        <li key={property._id}>{property.boxId}</li>
+
+                        
+                       
+                        )
+                      })
+                    }

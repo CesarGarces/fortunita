@@ -1,0 +1,19 @@
+.card-title2 {
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: auto;
+    padding: 8px 0;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #411f9d;
+    font-weight: 700;
+    text-align: center;
+  }
+.card-body2 {
+    text-align: center;
+  }
+.card-text2 {
+    text-align: center;
+  }
